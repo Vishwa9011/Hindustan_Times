@@ -1,0 +1,70 @@
+#heading-line::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  display: block;
+  top: 32px;
+  z-index: 1;
+  height: 2px;
+  left: 0;
+  border-top: 1px solid rgb(189, 189, 189);
+  border-bottom: 1px solid rgb(189, 189, 189);
+}
+#heading-line::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  display: block;
+  top: 38px;
+  height: 2px;
+  z-index: 1;
+  left: 0;
+  border-top: 1px solid rgb(189, 189, 189);
+}
+.main-bg-set {
+  position: relative;
+}
+#main-left-recommended {
+  position: relative;
+}
+#main-left {
+  position: relative;
+}
+#main-section {
+  position: relative;
+  padding: 10px;
+}
+#main-right {
+  position: relative;
+}
+.main-right-ShopNow {
+  position: relative;
+  padding: 10px 0px;
+}
+#heading-text {
+  display: initial;
+  position: relative;
+  text-align: center;
+  z-index: 1;
+  padding: 0 1px;
+  margin: auto;
+  width: fit-content;
+  vertical-align: top;
+  background-color: white;
+}
+
+/* Navbar */
+#navbar {
+  position: relative;
+  width: 100%;
+}
+#navbar::before {
+  content: "";
+  position: absolute;
+  top: 40px;
+  left: 0%;
+  width: 100%;
+  border-top: 1px solid rgb(230, 230, 230);
+  z-index: 1;
+  display: block;
+}
