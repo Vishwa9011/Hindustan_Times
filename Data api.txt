@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Reuters",
+      "title": "Oil prices rise on surprise drop in U.S. crude, fuel stocks By Reuters - Investing.com",
+      "description": "Oil prices rise on surprise drop in U.S. crude, fuel stocks",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-mixed-as-hurricane-ian-output-cuts-support-dollar-weighs-2900296",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB450KD_L.jpg",
+      "publishedAt": "2022-09-28T15:26:00Z",
+      "content": "By David Gaffen\r\nNEW YORK (Reuters) -Oil prices rose on Wednesday following unexpected drawdowns in U.S. crude and fuel stocks, outweighing downward pressure from the continued strength in the U.S. d… [+2071 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Tata Motors launches $10000 electric car in India to further its lead - Reuters",
+      "description": "Tata Motors <a href=\"https://www.reuters.com/companies/TAMO.NS\" target=\"_blank\">(TAMO.NS)</a> launched India's lowest priced electric car at a little over $10,000 on Wednesday as the country's only electric vehicle (EV) maker looks to draw in more buyers.",
+      "url": "https://www.reuters.com/business/autos-transportation/tata-motors-launches-10000-electric-car-india-2022-09-28/",
+      "urlToImage": "https://www.reuters.com/resizer/t-6DZMfXuC5GdbdUqAZwdaJgZa8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NNA2TKH5WBK5PEP2GVJD6UXLJY.jpg",
+      "publishedAt": "2022-09-28T13:20:00Z",
+      "content": "NEW DELHI, Sept 28 (Reuters) - Tata Motors (TAMO.NS) launched India's lowest priced electric car at a little over $10,000 on Wednesday as the country's only electric vehicle (EV) maker looks to draw … [+2596 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Team Saurabh Mukherjea latest stock pick is down 18% from IPO price. Do you own? | Mint - Mint",
+      "description": "Team Saurabh Mukherjea in the newsletter pointed out two key competitive advantages of Vijaya Diagnostic: Customer convenience and quality of the diagnosis",
+      "url": "https://www.livemint.com/market/stock-market-news/team-saurabh-mukherjea-latest-stock-pick-is-down-18-from-ipo-price-do-you-own-11664367445627.html",
+      "urlToImage": "https://images.livemint.com/img/2022/09/28/600x338/vijaya-disgnostic_1664369139772_1664369139891_1664369139891.jpg",
+      "publishedAt": "2022-09-28T12:55:44Z",
+      "content": "Team Saurabh Mukherjea has recently added Vijaya Diagnostic Centre to its smallcap portfolio. This was disclosed in Marcellus Investment Manager's latest newsletter on Little Champs model portfolio. … [+2545 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Pooja Sitaram Jaiswar",
+      "title": "Suzlon Energy ₹1,200 crore rights issue to open next month: 10 points | Mint - Mint",
+      "description": "Under the 'Rights Issue', Suzlon will offer up to 240 crore partly paid-up Equity Shares amounting to  ₹1,200 crore on a rights basis to its eligible shareholders.",
+      "url": "https://www.livemint.com/companies/news/suzlon-energy-announces-rs-1-200-cr-rights-issue-10-points-11664369165804.html",
+      "urlToImage": "https://images.livemint.com/img/2022/09/28/600x338/Suzlon_4C--621x414_1664369441601_1664369441601.jpg",
+      "publishedAt": "2022-09-28T12:52:56Z",
+      "content": "India's one of the top manufacturers of wind components, Suzlon Energy has announced a 'Rights Issue' aggregating to 1,200 crore. The issue will be launched on October 11, 2022. Under rights issue, f… [+3707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kitco NEWS"
+      },
+      "author": "http://www.facebook.com/kitconews",
+      "title": "Gold price up on safe-haven demand amid anxious marketplace - Kitco NEWS",
+      "description": "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
+      "url": "https://www.kitco.com/news/2022-09-28/Gold-price-up-on-safe-haven-demand-amid-anxious-marketplace.html",
+      "urlToImage": "https://www.kitco.com/news/2022-09-28/images/goldchart_0928_am.png",
+      "publishedAt": "2022-09-28T12:27:00Z",
+      "content": "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+3566 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jnj.com"
+      },
+      "author": null,
+      "title": "Johnson & Johnson Announces Kenvue as the Name for Planned New Consumer Health Company - Johnson & Johnson",
+      "description": "Modern name, purpose, and visual identity mark inspiring next chapter for maker of iconic, trusted brands, including Tylenol, Neutrogena, Listerine, and Band-Aid Brand",
+      "url": "https://www.jnj.com/johnson-johnson-announces-kenvue-as-the-name-for-planned-new-consumer-health-company",
+      "urlToImage": "",
+      "publishedAt": "2022-09-28T11:57:45Z",
+      "content": "NEW BRUNSWICK, N.J. September 28, 2022 Johnson &amp; Johnson (the Company) (NYSE: JNJ) today took another step forward in establishing two independent, market-leading companies with the announcement … [+7789 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "The mess in the UK economy, and why the govt is being blamed for it - The Indian Express",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiiwFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZXhwbGFpbmVkL2V4cGxhaW5lZC1lY29ub21pY3MvdGhlLW1lc3MtaW4tdGhlLXVrLWVjb25vbXktYW5kLXdoeS10aGUtZ292dC1pcy1iZWluZy1ibGFtZWQtZm9yLWl0LTgxNzgzODAv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-09-28T11:11:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Share Market HIGHLIGHTS: Sensex ends 509 pts down, Nifty at 16858 ahead of monthly F&O expiry; Reliance drags - The Financial Express",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMirwFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9tYXJrZXQvc2hhcmUtbWFya2V0LXRvZGF5LWxpdmUtdXBkYXRlcy1zZW5zZXgtbmlmdHktcnVwZWUtdnMtZG9sbGFyLXNneC1uaWZ0eS1pbi1yZWQtcmJpLW1wYy1tZWV0LXN0YXJ0cy10b2RheS1zZXB0ZW1iZXItMjgtd2VkbmVzZGF5LzI2OTMzNzAv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-09-28T10:53:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Forex Reserves Set To Shrink Further, Stir Memories Of 2008 Crisis: Report - NDTV Profit",
+      "description": "Depleted foreign exchange reserves are likely to drop further, falling to their lowest level in over two years by end-2022, a Reuters poll showed.",
+      "url": "https://www.ndtv.com/business/forex-reserves-set-to-shrink-further-on-record-low-rupee-stir-2008-crisis-memories-report-3385088",
+      "urlToImage": "https://c.ndtvimg.com/2022-09/1241hp8g_image_625x300_28_September_22.jpg",
+      "publishedAt": "2022-09-28T10:42:55Z",
+      "content": "Forex reserves set to shrink further, stir memories of 2008 crisis: Report\r\nBENGALURU: India's depleted foreign exchange reserves are likely to drop further, falling to their lowest level in over two… [+2966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Rakesh Patil",
+      "title": "Taking Stock | Market falls for sixth day in a row; Nifty below 16,900; Sensex down 509 points - Moneycontrol",
+      "description": "On the BSE, Power, Bank, and Metal indices fell 1-2 percent and FMCG, Oil and Gas and Realty indices shed 0.5 percent each. However, the pharma index rose 0.46 percent.",
+      "url": "https://www.moneycontrol.com/news/business/markets/taking-stock-market-falls-for-sixth-day-in-a-row-nifty-below-16900-sensex-down-509-points-9244571.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/09/Nifty_sensex-770x433.jpg",
+      "publishedAt": "2022-09-28T10:33:14Z",
+      "content": "Indian equity market on September 28 lost further ground and ended lower for the sixth consecutive session amid volatility with selling seen in the metal, power and financial stocks.\r\nThe market star… [+5195 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Man order laptop on Flipkart, gets Ghadi detergent instead, Refund initiated - Kalinga TV",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8va2FsaW5nYXR2LmNvbS90ZWNobm9sb2d5L2RlbGhpLW1hbi1vcmRlcnMtbGFwdG9wLW9uLWZsaXBrYXJ0LXJlY2VpdmVzLWdoYWRpLWRldGVyZ2VudC1iYXItaW5zdGVhZC_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-09-28T10:07:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cardekho.com"
+      },
+      "author": "Rohit",
+      "title": "2022 Maruti Grand Vitara vs Toyota Hyryder: Prices Compared - CarDekho",
+      "description": "Toyota makes the strong-hybrid powertrain more affordable by almost Rs 3 lakh by offering it from a lower variant onward   Maruti has launched the 2022 Grand Vitara and has priced it from Rs 10.45 lakh (ex-showroom pan-India) onwards. With the Maruti SUV’s en…",
+      "url": "https://www.cardekho.com/india-car-news/new-maruti-grand-vitara-vs-toyota-hyryder-price-check-29727.htm",
+      "urlToImage": "https://stimg2.cardekho.com/images/carNewsimages/userimages/650X420/29726/1664361072579/GeneralNew.jpg",
+      "publishedAt": "2022-09-28T10:01:00Z",
+      "content": "Toyota makes the strong-hybrid powertrain more affordable by almost Rs 3 lakh by offering it from a lower variant onward\r\nMaruti has launched the 2022 Grand Vitara and has priced it from Rs 10.45 lak… [+3697 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Bhavya Dilipkumar",
+      "title": "Capillary Tech names Sameer Garde as CEO, cofounder Aneesh Reddy to serve as vice chairman - Moneycontrol",
+      "description": "Garde is an alumnus of IIT Delhi and IIM Calcutta. He started his career with Nestle as an Area Sales Manager in India, and then worked with Whirlpool as a Regional Director for West in India and as a Brand Head in Western Europe.",
+      "url": "https://www.moneycontrol.com/news/business/announcements/capillary-tech-names-sameer-garde-as-ceo-cofounder-aneesh-reddy-to-serve-as-vice-chairman-9244171.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/09/Sameer-Garde-1-335x435.jpg",
+      "publishedAt": "2022-09-28T09:43:40Z",
+      "content": "Warburg Pincus and Sequoia-backed Capillary Technologies announced that Sameer Garde, presently a board member and independent director at the artificial intelligence-based cloud-native software-as-a… [+2564 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "WION Business News | Foreign exchange reserves: Asian nations better positioned than the UK - WION",
+      "description": "UK's Pound is on a free fall, its value against the dollar has decreased and the foreign reserves are also depleting fast. Economic challenges faced by UK ar...",
+      "url": "https://www.youtube.com/watch?v=BQE2ak3ySLk",
+      "urlToImage": "https://i.ytimg.com/vi/BQE2ak3ySLk/maxresdefault.jpg",
+      "publishedAt": "2022-09-28T09:40:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CarToq.com"
+      },
+      "author": "CarToq Editor",
+      "title": "Toyota Hyryder Urban Cruiser: Prices of 7 variants revealed - CarToq.com",
+      "description": "Toyota has finally revealed prices of all variants of the recently launched Hyryder Urban Cruiser compact SUV. The Japanese automaker had held back prices of 7 variants at the time of launch, and prices of these variants have now been announced. The Hyryder’s…",
+      "url": "https://www.cartoq.com/toyota-hyryder-urban-cruiser-prices-of-7-variants-revealed/",
+      "urlToImage": "https://www.cartoq.com/wp-content/uploads/2022/07/hyryder-featured.jpg",
+      "publishedAt": "2022-09-28T09:11:15Z",
+      "content": "Toyota has finally revealed prices of all variants of the recently launched Hyryder Urban Cruiser compact SUV. The Japanese automaker had held back prices of 7 variants at the time of launch, and pri… [+3468 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "How variable pay cuts could impact Indian IT companies | Mint - Mint",
+      "description": "India’s IT industry has been in the news recently for re-evaluating employee cost",
+      "url": "https://www.livemint.com/news/how-bonus-cuts-layoffs-could-impact-top-indian-it-companies-11664350118590.html",
+      "urlToImage": "https://images.livemint.com/img/2022/09/28/600x338/IT_company_1664353231576_1664353231703_1664353231703.jpg",
+      "publishedAt": "2022-09-28T08:24:21Z",
+      "content": "Indias IT industry has been in the news recently for re-evaluating employee cost. For e.g., the bonus cuts announced by Wipro and Infosys, setting aside of anniversary wage revision for laterals at T… [+2073 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bikewale.com"
+      },
+      "author": "Suvil Susvirkar",
+      "title": "Hero Xtreme 160R Stealth 2.0: Top 5 highlights - BikeWale",
+      "description": "This version of the TVS Apache RTR 160-rival gets several styling and feature updates and here we list the top five highlights of the new Hero Xtreme 160R Stealth 2.0.",
+      "url": "https://www.bikewale.com/news/hero-xtreme-160r-stealth-20-top-5-highlights/",
+      "urlToImage": "https://imgd.aeplcdn.com/642x336/n/cw/ec/131665/hero-xtreme-right-front-three-quarter1.jpeg?isig=0&q=75&art=2",
+      "publishedAt": "2022-09-28T08:10:46Z",
+      "content": "Hero MotoCorp has updated its product portfolio with the launch of the Xtreme 160R Stealth 2.0 ahead of the festive season. This version of the TVS Apache RTR 160-rival gets several styling and featu… [+2363 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "GST revenue in September likely at Rs 1.45 lakh cr - Economic Times",
+      "description": "Goods and Services Tax (GST) revenue mop-up in September is expected to be around Rs 1.45 lakh crore, an official said. The collection has been over Rs 1.4 lakh crore since March and in August it was Rs 1.43 lakh crore. Official revenue figures will be releas…",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/gst-revenue-in-september-likely-at-rs-1-45-lakh-cr/articleshow/94503604.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-94503635,width-1070,height-580,imgsize-1691582,overlay-economictimes/photo.jpg",
+      "publishedAt": "2022-09-28T08:08:00Z",
+      "content": "Goods and Services Tax (GST) revenue mop-up in September is expected to be around Rs 1.45 lakh crore, an official said. The collection has been over Rs 1.4 lakh crore since March and in August it was… [+663 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bqprime.com"
+      },
+      "author": "Swastika Mukhopadhyay",
+      "title": "Nifty 50 Rejig To Reduce Weight Of RIL, TCS, Infosys From Sept. 30 - BQ Prime",
+      "description": "RIL's weight will be 0.11% on the Nifty 50 after the rebalancing, while TCS and Infosys will be at 0.08% and  0.06%, respectively.",
+      "url": "https://www.bqprime.com/markets/nifty-50-rejig-to-reduce-weight-of-ril-tcs-infosys-from-sept-30",
+      "urlToImage": "https://gumlet.assettype.com/bloombergquint%2F2022-09%2F71d3ed47-9619-4f7e-b518-b03783e7a5d8%2Fyiorgos_ntrahas_mcAUHlGirVs_unsplash.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2022-09-28T07:03:24Z",
+      "content": "Reliance Industries Ltd., Infosys Ltd. and Tata Consultancy Services Ltd. are set to see their weight decline in the Nifty 50 index following Adani Enterprises Ltd.'s entry, according to Edelweiss Se… [+1293 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Coingape"
+      },
+      "author": "Bhushan Akolkar",
+      "title": "Pump and Dump: Bitcoin (BTC) Crashes With Trading Volumes At 3-Month High - CoinGape",
+      "description": "After a strong push above $20,000 on Tuesday, Bitcoin has failed to hold those levels and crashed once again. the Bitcoin price is down 6.36% at press",
+      "url": "https://coingape.com/pump-and-dump-bitcoin-btc-trading-volumes-at-3-month-high/",
+      "urlToImage": "https://cdn.coingape.com/wp-content/uploads/2022/09/22142519/crypto-bitcoin.jpg",
+      "publishedAt": "2022-09-28T06:51:12Z",
+      "content": "After a strong push above $20,000 on Tuesday, Bitcoin has failed to hold those levels and crashed once again. the Bitcoin price is down 6.36% at press time and currently trading at $18,774 with a mar… [+2278 chars]"
+    }
+  ]
+}
