@@ -21,6 +21,13 @@
   left: 0;
   border-top: 1px solid rgb(189, 189, 189);
 }
+
+.heading-line-mid::before {
+  top: 70px !important;
+}
+.heading-line-mid::after {
+  top: 76.6px !important;
+}
 .main-bg-set {
   position: relative;
 }
