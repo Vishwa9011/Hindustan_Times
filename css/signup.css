@@ -19,14 +19,14 @@ body {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 #navbar > div {
-  width: 37%;
+  width: 560px;
   display: flex;
   justify-content: center;
   align-items: center;
   margin: auto;
 }
 #navbar img {
-  width: 50%;
+  width: 300px;
 }
 
 #container {
@@ -43,7 +43,7 @@ body {
   padding: 20px 0;
 }
 .main {
-  width: 40%;
+  width: 560px;
   position: relative;
   top: 0%;
   height: 100%;
@@ -53,6 +53,7 @@ body {
 }
 .loginwith {
   width: 85%;
+  /* margin: auto; */
   margin: 20px auto 0;
   justify-content: center;
   align-items: center;
@@ -172,4 +173,13 @@ footer {
 
 footer div {
   margin-top: 7px;
+}
+
+@media screen and (max-width: 580px) {
+  #navbar > div {
+    width: 100%;
+  }
+  .main {
+    width: 100%;
+  }
 }

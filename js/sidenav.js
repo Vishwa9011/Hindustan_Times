@@ -28,10 +28,16 @@ overlay.addEventListener("click", closeSideMenu);
 // <===========================================>
 // dropdown menu
 let dropdownLi = document.querySelector("#dropdownLi");
+let dropdownmenuout = document.querySelector("#dropdown");
 dropdownLi.addEventListener("mouseover", dropdown);
 function dropdown() {
   let dropdownmenu = document.querySelector("#dropdown");
   dropdownmenu.style.display = "block";
+}
+dropdownmenuout.addEventListener("mouseout", dropdownOut);
+function dropdownOut() {
+  let dropdownmenu = document.querySelector("#dropdown");
+  dropdownmenu.style.display = "none";
 }
 dropdownLi.addEventListener("mouseout", dropdownOut);
 function dropdownOut() {
