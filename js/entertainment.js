@@ -107,7 +107,7 @@ xhrright.send();
 // <================ This is for mid big news ======================>
 // Initialize the news api parameters
 let category = "entertainment";
-let country = "in";
+let country = "us";
 let apiKey = "dea5b4f8aa0a4689a5270d536e036b5c";
 
 // Grab the news container
