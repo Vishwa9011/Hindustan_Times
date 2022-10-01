@@ -72,7 +72,7 @@ console.log("This is my index js file");
 // Initialize the news api parameters
 let categoryright = "technology";
 let countryright = "us";
-let apiKeyright = "dea5b4f8aa0a4689a5270d536e036b5c";
+let apiKeyright = "e8d61afff2c74e5992cbe698f3b861f8";
 
 // Create an ajax get request
 const xhrright = new XMLHttpRequest();
@@ -108,7 +108,7 @@ xhrright.send();
 // Initialize the news api parameters
 let category = "technology";
 let country = "us";
-let apiKey = "dea5b4f8aa0a4689a5270d536e036b5c";
+let apiKey = "e8d61afff2c74e5992cbe698f3b861f8";
 
 // Grab the news container
 let newsAccordion = document.getElementById("newsAccordion");
