@@ -72,7 +72,7 @@ console.log("This is my index js file");
 // Initialize the news api parameters
 let categoryright = "general";
 let countryright = "de";
-let apiKeyright = "e8d61afff2c74e5992cbe698f3b861f8";
+let apiKeyright = "00039e1b2014414c86665e8c11e7f472";
 
 // Create an ajax get request
 const xhrright = new XMLHttpRequest();
@@ -108,7 +108,7 @@ xhrright.send();
 // Initialize the news api parameters
 let category = "general";
 let country = "in";
-let apiKey = "e8d61afff2c74e5992cbe698f3b861f8";
+let apiKey = "00039e1b2014414c86665e8c11e7f472";
 
 // Grab the news container
 let newsAccordion = document.getElementById("newsAccordion");
